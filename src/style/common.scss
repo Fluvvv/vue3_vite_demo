@@ -1,0 +1,22 @@
+@import '_var.scss';
+
+.el-main {
+  background-color: $containerBgc;
+}
+
+.fl {
+  float: left;
+}
+
+.fr {
+  float: right;
+}
+
+.clear:after {
+  content: '';
+  clear: both;
+  display: block;
+  height: 0;
+  overflow: hidden;
+  visibility: hidden;
+}

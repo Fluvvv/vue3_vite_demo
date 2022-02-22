@@ -1,0 +1,46 @@
+/**
+ * 全局变量
+ * 命名规范 —— 遵守语义化命名：lg-大号、md-中号、base-基本号、sm-小号、mini-超小号
+ */
+
+// container的背景颜色
+$containerBgc: #f5f7f9;
+$themeColor: #e01b2f;
+
+$--color-primary: #e01b2f;
+
+$font-weight-base: 400;
+
+$border-color-base: rgba(101, 135, 248, 0.36);
+
+$font-size-lg: 18px;
+$font-size-md: 16px;
+$font-size-base: 14px;
+$font-size-sm: 12px;
+$font-size-mini: 10px;
+
+$color-important: #222222;
+$color-common: #606060;
+$color-desc: #909090;
+$color-disabled: #bfbfbf;
+$color-error: #f04134;
+$color-warn: #f5a623;
+$color-lighting: #9013fe;
+
+$menuText: #bfcbd9;
+$menuActiveText: #202224;
+$subMenuActiveText: #202224; //https://github.com/ElemeFE/element/issues/12951
+
+$menuBg: #fff;
+$menuHover: #f4f5f6;
+
+$subMenuBg: #fff;
+$subMenuHover: #f4f5f6;
+
+$sideBarWidth: 220px;
+$menuHeight: 54px;
+
+$activeBg: #f4f5f6;
+
+$svgSize: 34px;
+$menuFontSize: 14px;

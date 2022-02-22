@@ -1,0 +1,8 @@
+.el-icon,
+.svg-icon {
+  cursor: pointer;
+}
+// 表头下拉菜单层级
+.el-dropdown__popper {
+  z-index: 10001 !important;
+}
